@@ -11,7 +11,7 @@ const options={
   },
   headers:{
     accept:'application/json',
-    Authorization:' Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwOGU4MzczOGVlNDhjY2I4MzY0YmUwNDQwYjkxYTQxYiIsInN1YiI6IjY1YjRhNmJmYjZjZmYxMDE3Y2Y2MmM1ZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.IslEd8U8jZzrZH-kYnK8BdrcQhZx2-n7QpfvDg5Zf68'
+    Authorization:''
   }
   
 }
